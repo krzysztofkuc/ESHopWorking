@@ -1,0 +1,104 @@
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\ApplicationInsights.config
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\EShop.dll.config
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\EShop.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\EShop.pdb
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Antlr3.Runtime.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.Web.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.WindowsServer.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.ApplicationInsights.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Newtonsoft.Json.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Helpers.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Mvc.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Optimization.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Razor.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.WebPages.Deployment.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.WebPages.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.WebPages.Razor.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\WebGrease.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Helpers.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Mvc.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Optimization.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.Razor.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.WebPages.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.WebPages.Deployment.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\System.Web.WebPages.Razor.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Antlr3.Runtime.pdb
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Newtonsoft.Json.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.ApplicationInsights.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.WindowsServer.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\Microsoft.AI.Web.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\obj\Debug\EShop.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\obj\Debug\EShop.pdb
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\EntityFramework.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\EntityFramework.SqlServer.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\EntityFramework.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\EntityFramework.SqlServer.xml
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\AutoMapper.dll
+c:\users\krzysztof.kuc\source\repos\EShop\EShop\bin\AutoMapper.xml
+C:\Users\krzysztof.kuc\source\repos\EShop\EShop\bin\AutoMapper.EF6.dll
+C:\Users\krzysztof.kuc\source\repos\EShop\EShop\bin\DelegateDecompiler.dll
+C:\Users\krzysztof.kuc\source\repos\EShop\EShop\bin\DelegateDecompiler.EntityFramework.dll
+C:\Users\krzysztof.kuc\source\repos\EShop\EShop\bin\Mono.Reflection.dll
+C:\Users\krzysztof.kuc\source\repos\EShop\EShop\obj\Debug\EShop.csprojResolveAssemblyReference.cache
+D:\Nowy folder\EShop\EShop\bin\ApplicationInsights.config
+D:\Nowy folder\EShop\EShop\bin\EShop.dll.config
+D:\Nowy folder\EShop\EShop\bin\EShop.dll
+D:\Nowy folder\EShop\EShop\bin\EShop.pdb
+D:\Nowy folder\EShop\EShop\bin\Antlr3.Runtime.dll
+D:\Nowy folder\EShop\EShop\bin\AutoMapper.dll
+D:\Nowy folder\EShop\EShop\bin\AutoMapper.EF6.dll
+D:\Nowy folder\EShop\EShop\bin\DelegateDecompiler.dll
+D:\Nowy folder\EShop\EShop\bin\DelegateDecompiler.EntityFramework.dll
+D:\Nowy folder\EShop\EShop\bin\EntityFramework.dll
+D:\Nowy folder\EShop\EShop\bin\EntityFramework.SqlServer.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.Web.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.ApplicationInsights.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nowy folder\EShop\EShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Nowy folder\EShop\EShop\bin\Mono.Reflection.dll
+D:\Nowy folder\EShop\EShop\bin\Newtonsoft.Json.dll
+D:\Nowy folder\EShop\EShop\bin\System.Web.Helpers.dll
+D:\Nowy folder\EShop\EShop\bin\System.Web.Mvc.dll
+D:\Nowy folder\EShop\EShop\bin\System.Web.Optimization.dll
+D:\Nowy folder\EShop\EShop\bin\System.Web.Razor.dll
+D:\Nowy folder\EShop\EShop\bin\System.Web.WebPages.Deployment.dll
+D:\Nowy folder\EShop\EShop\bin\System.Web.WebPages.dll
+D:\Nowy folder\EShop\EShop\bin\System.Web.WebPages.Razor.dll
+D:\Nowy folder\EShop\EShop\bin\WebGrease.dll
+D:\Nowy folder\EShop\EShop\bin\AutoMapper.xml
+D:\Nowy folder\EShop\EShop\bin\EntityFramework.xml
+D:\Nowy folder\EShop\EShop\bin\EntityFramework.SqlServer.xml
+D:\Nowy folder\EShop\EShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nowy folder\EShop\EShop\bin\System.Web.Helpers.xml
+D:\Nowy folder\EShop\EShop\bin\System.Web.Mvc.xml
+D:\Nowy folder\EShop\EShop\bin\System.Web.Optimization.xml
+D:\Nowy folder\EShop\EShop\bin\System.Web.Razor.xml
+D:\Nowy folder\EShop\EShop\bin\System.Web.WebPages.xml
+D:\Nowy folder\EShop\EShop\bin\System.Web.WebPages.Deployment.xml
+D:\Nowy folder\EShop\EShop\bin\System.Web.WebPages.Razor.xml
+D:\Nowy folder\EShop\EShop\bin\Antlr3.Runtime.pdb
+D:\Nowy folder\EShop\EShop\bin\Newtonsoft.Json.xml
+D:\Nowy folder\EShop\EShop\bin\Microsoft.ApplicationInsights.xml
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Nowy folder\EShop\EShop\bin\Microsoft.AI.Web.xml
+D:\Nowy folder\EShop\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+D:\Nowy folder\EShop\EShop\obj\Debug\EShop.dll
+D:\Nowy folder\EShop\EShop\obj\Debug\EShop.pdb
+D:\Nowy folder\EShop\EShop\obj\Debug\EShop.csprojResolveAssemblyReference.cache
